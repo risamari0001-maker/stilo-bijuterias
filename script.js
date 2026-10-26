@@ -15,7 +15,7 @@ const SITE = {
   tagline: "Detalhes que contam histórias.",
   email: "contato@stilobijuterias.com.br",
   whatsapp: "", // Exemplo de formato: 5511999999999
-  instagram: "https://www.instagram.com/",
+  instagram: "https://www.instagram.com/stilobijuterias/",
 };
 
 /* 2. PRODUTOS
